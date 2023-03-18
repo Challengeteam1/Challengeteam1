@@ -1,8 +1,22 @@
-### Hi there 👋
+## مرحبًا جميعًا 👋
 
+![ddacf13289d443f7425a0460e613560d](https://user-images.githubusercontent.com/128253849/226133594-a8e48796-d947-4669-9674-ccb21c7f5505.jpg)
+## مجتمع البرمجة التنافسية 
+### مجتمع للطلاب المبدعين من جميع الجامعات السعودية الذين لديهم الشغف 🤩 في مجال البرمجة التنافسية 🤖.
+### حياكم الله في المجتمع البرمجة التنافسية🖐
+<div id="badges">
+  <a href="https://chat.whatsapp.com/IwAfr8zkfwSHIDwoMB97zr">
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=linkedin&logoColor=green" alt="whatsapp Badge"/>
+  </a>
+</div>
+#### ✨ هذا الحساب يحتوي على التحديات المرفوعه والمُعتمدة من فريق التحدي بالاضافة لحلها
 <!--
-**Challengeteam1/Challengeteam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
