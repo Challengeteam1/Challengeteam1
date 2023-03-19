@@ -15,18 +15,22 @@
  :seedling: نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر
 
  :telescope:  نعمل على :
-1 - تعلم المهارات البرمجية: حيث يتعلم الطلاب البرمجة والتعامل مع الأكواد والمشاريع البرمجية المختلفة، كما يتعلمون الاستفادة من الأدوات والتقنيات البرمجية الحديثة.
-2- التحفيز على التعلم المستمر: حيث يتم تحفيز الطلاب على التعلم والتطوير المستمر في هذا المجال، وتشجيعهم على حل المشاكل والتحديات البرمجية المختلفة.
-3- توفير بيئة تنافسية: حيث يتنافس الطلاب على حل التحديات البرمجية وحل المشاكل في مسابقات وتحديات مختلفة، مما يساعد على تطوير مهاراتهم وزيادة خبرتهم في هذا المجال.
+ 
+1 - تعلم المهارات البرمجية: حيث يتعلم الطلاب البرمجة والتعامل مع الأكواد والمشاريع البرمجية المختلفة، كما يتعلمون الاستفادة من الأدوات والتقنيات البرمجية الحديثة
+
+2- التحفيز على التعلم المستمر: حيث يتم تحفيز الطلاب على التعلم والتطوير المستمر في هذا المجال، وتشجيعهم على حل المشاكل والتحديات البرمجية المختلفة
+
+3- توفير بيئة تنافسية: حيث يتنافس الطلاب على حل التحديات البرمجية وحل المشاكل في مسابقات وتحديات مختلفة، مما يساعد على تطوير مهاراتهم وزيادة خبرتهم في هذا المجال
+
 4- تعزيز الثقة بالنفس: حيث يساعد هذا النوع من التحديات والمنافسات البرمجية على تحسين مستوى الثقة بالنفس لدى الطلاب، وتحفيزهم على تحمل المخاطر وتجربة أشياء جديدة
 
 ---
 
 ### :hammer_and_wrench: اللغات المستخدمة لحل التديات :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c++" alt="Spring" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c++" alt="Spring" width="40" height="70"/>&nbsp;
 </div>
 
 ---
