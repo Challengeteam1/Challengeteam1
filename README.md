@@ -12,9 +12,9 @@
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  -->
 
-### :seedling: نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر
+#### :seedling: نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر
 
- ### :telescope:   نعمل على : 
+ #### :telescope:   نعمل على : 
  
 #### 1 - تعلم المهارات البرمجية: حيث يتعلم الطلاب البرمجة والتعامل مع الأكواد والمشاريع البرمجية المختلفة، كما يتعلمون الاستفادة من الأدوات والتقنيات البرمجية الحديثة
 
@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c++" alt="Spring" width="70" height="70"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/128253849/226133594-a8e48796-d947-4669-9674-ccb21c7f5505.jpg" title="c++" alt="Spring" width="70" height="70"/>&nbsp;
 </div>
 
 ---
