@@ -5,13 +5,15 @@
  -->
 <h1 align="center">سلام 👋, أنا فاطمة محمد الزهراني</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaalzahrani&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaalzahrani" /> </p>
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimaalzahrani" alt="fatimaalzahrani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimaalzahrani" alt="fatimaalzahrani" /></a> </p>
+<div align="right">
 
 - 👨‍💻 طالبة علوم حاسب مسار ذكاء اصطناعي في [جامعة الباحة](https://bu.edu.sa/ar/home)
 
 - 🤩 مهتمه بحل التحديات البرمجية **وتطوير التطبيقات**
 
 - 🔭 أتطلع أن أصبح مبرمجة محترفه واقوم بأشياء مفيدة للعالم 
+</div>
 
 <p align="right">
 </p>
