@@ -45,7 +45,7 @@
 
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Challengeteam1&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=fatimaalzahrani&style=flat-square&color=info" alt=""/>
 </div> 
 
 ## مجتمع البرمجة التنافسية 
