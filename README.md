@@ -5,8 +5,7 @@
  -->
 <h1 align="center">سلام 👋, أنا فاطمة محمد الزهراني</h1>
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47svoqlujyys5zh9k9br5w55fhiw8cespm4jo070ga&rid=giphy.gif&ct=g" width="300"/>
-  <img src="https://user-images.githubusercontent.com/128253849/226133594-a8e48796-d947-4669-9674-ccb21c7f5505.jpg" width="600"/>
+  <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47svoqlujyys5zh9k9br5w55fhiw8cespm4jo070ga&rid=giphy.gif&ct=g" width="500"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaalzahrani&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaalzahrani" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimaalzahrani" alt="fatimaalzahrani" /></a> </p>
