@@ -25,8 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimaalzahrani&show_icons=true&locale=en" alt="fatimaalzahrani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimaalzahrani&" alt="fatimaalzahrani" /></p>
-
 <!-- 
 ## مجتمع البرمجة التنافسية 
 
