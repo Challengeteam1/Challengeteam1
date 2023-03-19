@@ -27,13 +27,16 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ---
+
 ### :woman_technologist: عنا :
 
 ### مجتمع للطلاب المبدعين من جميع الجامعات السعودية الذين لديهم الشغف 🤩 في مجال البرمجة التنافسية 🤖.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ -->
+ مجموعة من الطلاب الذين يهتمون بتعلم وتطوير مهاراتهم في مجال البرمجة التنافسية
+- :telescope: نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر
 
 - :seedling: Exploring Technical Content Writing.
 
