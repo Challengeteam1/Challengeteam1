@@ -7,8 +7,6 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47svoqlujyys5zh9k9br5w55fhiw8cespm4jo070ga&rid=giphy.gif&ct=g" width="500"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaalzahrani&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaalzahrani" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimaalzahrani" alt="fatimaalzahrani" /></a> </p>
 <div align="right">
 
 👨‍💻 طالبة علوم حاسب مسار ذكاء اصطناعي في [جامعة الباحة](https://bu.edu.sa/ar/home)
@@ -17,7 +15,7 @@
 
 🔭 أتطلع أن أصبح **مبرمجة محترفه** واقوم بأشياء مفيدة للعالم 
 </div>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimaalzahrani" alt="fatimaalzahrani" /></a> </p>
 <p align="right">
 </p>
 
@@ -43,19 +41,15 @@
   <a href="mailto:12fatimah.15@gmail.com">
     <img src="https://th.bing.com/th?id=OIP.N3cFVgAShuhUnvU-yBB12AHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2" alt="Gmail Badge"  height="50"/>
   </a>
-   <a href="https://www.hackerrank.com/12fatimah_15">
-    <img src="https://www.christian-mcarthur.com/sites/default/files/styles/large/public/field/image/hackerrank-logo.jpg?itok=emkNnuMJ" alt="hakerrank Badge" width="60" height="50"/>
-  </a>
-   <a href="https://profile.satr.codes/Fatima_ALzahrani/public/overview">
-    <img src="https://user-images.githubusercontent.com/128253849/226166184-533c35ea-e887-4bc5-86de-f9852560b757.svg" alt="كودرهب" width="60" height="60"/>
-  </a>
+   <a href="https://www.hackerrank.com/12fatimah_15"><img src="https://www.christian-mcarthur.com/sites/default/files/styles/large/public/field/image/hackerrank-logo.jpg?itok=emkNnuMJ" alt="hakerrank Badge" width="60" height="50"/></a>
+   <a href="https://profile.satr.codes/Fatima_ALzahrani/public/overview"><img src="https://user-images.githubusercontent.com/128253849/226166184-533c35ea-e887-4bc5-86de-f9852560b757.svg" alt="كودرهب" width="60" height="60"/</a>
 
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Challengeteam1&style=flat-square&color=blue" alt=""/>
 </div> 
 
-<!-- ## مجتمع البرمجة التنافسية 
+## مجتمع البرمجة التنافسية 
 
 
 <div id="header" align="center">
@@ -123,7 +117,6 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Challengeteam1&style=flat-square&color=blue" alt=""/>
 </div> 
- -->
 <!-- _____________________________________________________________________________________________________________________________________ -->
 <!--
 ![ddacf13289d443f7425a0460e613560d](https://user-images.githubusercontent.com/128253849/226133594-a8e48796-d947-4669-9674-ccb21c7f5505.jpg)
