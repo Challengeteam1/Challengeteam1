@@ -28,9 +28,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
+### :woman_technologist: عنا :
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### مجتمع للطلاب المبدعين من جميع الجامعات السعودية الذين لديهم الشغف 🤩 في مجال البرمجة التنافسية 🤖.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -61,7 +62,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!--
 ![ddacf13289d443f7425a0460e613560d](https://user-images.githubusercontent.com/128253849/226133594-a8e48796-d947-4669-9674-ccb21c7f5505.jpg)
-### مجتمع للطلاب المبدعين من جميع الجامعات السعودية الذين لديهم الشغف 🤩 في مجال البرمجة التنافسية 🤖.
 ### حياكم الله في مجتمع البرمجة التنافسية🖐
 [<img src="https://user-images.githubusercontent.com/128253849/226134278-43ae2321-712b-492a-ab8b-c24895d5d941.png" alt="whatsapp" width="100"/>](https://chat.whatsapp.com/IwAfr8zkfwSHIDwoMB97zr)
   <a href="your-youtube-URL">
