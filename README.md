@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
   <a href="mailto:12fatimah.15@gmail.com">
-    <img src="https://th.bing.com/th/id/OIP.JjD4-Aqm9Vwvn3ddtcfelgHaEK?pid=ImgDet&rs=1" alt="Gmail Badge" width="50" height="50"/>
+    <img src="https://th.bing.com/th/id/OIP.JjD4-Aqm9Vwvn3ddtcfelgHaEK?pid=ImgDet&rs=1" alt="Gmail Badge"  height="50"/>
   </a>
    <a href="https://www.hackerrank.com/12fatimah_15">
     <img src="https://www.christian-mcarthur.com/sites/default/files/styles/large/public/field/image/hackerrank-logo.jpg?itok=emkNnuMJ" alt="hakerrank Badge" width="40" height="40"/>
