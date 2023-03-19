@@ -41,14 +41,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
   <a href="mailto:12fatimah.15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="50" height="50"/>
+    <img src="https://th.bing.com/th/id/OIP.JjD4-Aqm9Vwvn3ddtcfelgHaEK?pid=ImgDet&rs=1" alt="Gmail Badge" width="50" height="50"/>
   </a>
    <a href="https://www.hackerrank.com/12fatimah_15">
     <img src="https://www.christian-mcarthur.com/sites/default/files/styles/large/public/field/image/hackerrank-logo.jpg?itok=emkNnuMJ" alt="hakerrank Badge" width="40" height="40"/>
   </a>
    <a href="https://profile.satr.codes/Fatima_ALzahrani/public/overview">
-    <img src="https://user-images.githubusercontent.com/128253849/226165757-6fa9a019-6557-4cd9-b83d-61cf08abcd11.svg" alt="كودرهب" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/128253849/226166017-72db925d-dbdf-465a-847b-29c5a60019cc.svg" alt="كودرهب" width="40" height="40"/>
   </a>
+
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Challengeteam1&style=flat-square&color=blue" alt=""/>
