@@ -3,7 +3,9 @@
 مهتمه بحل التحديات البرمجية وتطوير التطبيقات
 أتطلع أن أصبح مبرمجة محترفه واقوم بأشياء مفيدة للعالم
  -->
-<h1 align="center">سلام 👋, أنا فاطمة محمد الزهراني</h1>
+<h1 align="center">سلام
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ , أنا فاطمة محمد الزهراني</h1>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47svoqlujyys5zh9k9br5w55fhiw8cespm4jo070ga&rid=giphy.gif&ct=g" width="500"/>
 </div>
