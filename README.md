@@ -1,7 +1,9 @@
 ## مجتمع البرمجة التنافسية 
 
 
----
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+</div>
 
 ### :woman_technologist: عنا :
 
@@ -11,7 +13,7 @@
  مجموعة من الطلاب الذين يهتمون بتعلم وتطوير مهاراتهم في مجال البرمجة التنافسية
 - :telescope:  
 
-- الله :seedling:
+- :seedling: الله
  نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر - :seedling:
 
 
@@ -40,9 +42,7 @@
   حياكم الله في مجتمع البرمجة التنافسية
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://chat.whatsapp.com/IwAfr8zkfwSHIDwoMB97zr">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
