@@ -3,8 +3,7 @@
 
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/> -->
-  <img src="https://user-images.githubusercontent.com/128253849/226133594-a8e48796-d947-4669-9674-ccb21c7f5505.jpg" width="300"/>
-
+  <img src="https://user-images.githubusercontent.com/128253849/226133594-a8e48796-d947-4669-9674-ccb21c7f5505.jpg" width="600"/>
 </div>
 
 ### :woman_technologist: عنا :
