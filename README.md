@@ -36,9 +36,10 @@
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  -->
  مجموعة من الطلاب الذين يهتمون بتعلم وتطوير مهاراتهم في مجال البرمجة التنافسية
-- :telescope: نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر
+- :telescope:  
 
-- :seedling: Exploring Technical Content Writing.
+ نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر- :seedling:
+
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
