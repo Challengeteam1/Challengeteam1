@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="your-whatsapp-URL">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=https://user-images.githubusercontent.com/128253849/226134278-43ae2321-712b-492a-ab8b-c24895d5d941.png&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://chat.whatsapp.com/IwAfr8zkfwSHIDwoMB97zr">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,6 +14,9 @@
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="your-Gmail-URL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Challengeteam1&style=flat-square&color=blue" alt=""/>
 </div>
