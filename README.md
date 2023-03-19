@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 <!--   <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47svoqlujyys5zh9k9br5w55fhiw8cespm4jo070ga&rid=giphy.gif&ct=g" width="300"/> -->
-  <img src="https://user-images.githubusercontent.com/128253849/226133594-a8e48796-d947-4669-9674-ccb21c7f5505.jpg" width="600"/>
+  <img src="https://media.tenor.com/LMpVMsVPmVEAAAAC/mobile-application-digital-marketing.gif" width="600"/>
 </div>
 
 ### :woman_technologist: عنا :
@@ -57,7 +57,7 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Students_CPC">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:email@example.com">
