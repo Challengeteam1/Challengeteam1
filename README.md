@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
-  <img src="https://www.bing.com/ck/a?!&&p=699c60ba5aadbe77JmltdHM9MTY3OTE4NDAwMCZpZ3VpZD0wNmEwNTIwYi1lMmM2LTY3YmYtMTBjNS00MzJlZTNkMDY2MjUmaW5zaWQ9NTUxMA&ptn=3&hsh=3&fclid=06a0520b-e2c6-67bf-10c5-432ee3d06625&u=a1L2ltYWdlcy9zZWFyY2g_cT1DJTJCJTJCJTIwSWNvbiZGT1JNPUlRRlJCQSZpZD1DN0ZCNzJENDIxMkU4M0YzRDg3MDk0MjcyNjlERDZFOTM3RDMwQURE&ntb=1" title="c++" alt="Spring" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="c++" alt="c++" width="70" height="70"/>&nbsp;
 </div>
 
 ---
