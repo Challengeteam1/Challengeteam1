@@ -11,13 +11,14 @@
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  -->
  مجموعة من الطلاب الذين يهتمون بتعلم وتطوير مهاراتهم في مجال البرمجة التنافسية
-- :telescope:  
 
-- :seedling: - نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر
+ :seedling: نهدف إلى تعزيز ثقافة البرمجة وتطوير مهارات الطلاب في هذا المجال وذلك عن طريق توفير بيئة تعليمية وتنافسية تحفز الطلاب على التعلم والتطوير المستمر
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ :telescope:  نعمل على :
+1 - تعلم المهارات البرمجية: حيث يتعلم الطلاب البرمجة والتعامل مع الأكواد والمشاريع البرمجية المختلفة، كما يتعلمون الاستفادة من الأدوات والتقنيات البرمجية الحديثة.
+2- التحفيز على التعلم المستمر: حيث يتم تحفيز الطلاب على التعلم والتطوير المستمر في هذا المجال، وتشجيعهم على حل المشاكل والتحديات البرمجية المختلفة.
+3- توفير بيئة تنافسية: حيث يتنافس الطلاب على حل التحديات البرمجية وحل المشاكل في مسابقات وتحديات مختلفة، مما يساعد على تطوير مهاراتهم وزيادة خبرتهم في هذا المجال.
+4- تعزيز الثقة بالنفس: حيث يساعد هذا النوع من التحديات والمنافسات البرمجية على تحسين مستوى الثقة بالنفس لدى الطلاب، وتحفيزهم على تحمل المخاطر وتجربة أشياء جديدة
 
 ---
 
@@ -37,7 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Challengeteam1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>
-  حياكم الله في مجتمع البرمجة التنافسية
+  حياكم الله في مجتمعنا للبرمجة التنافسية
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
