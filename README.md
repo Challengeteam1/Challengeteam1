@@ -44,10 +44,10 @@
     <img src="https://th.bing.com/th?id=OIP.N3cFVgAShuhUnvU-yBB12AHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2" alt="Gmail Badge"  height="50"/>
   </a>
    <a href="https://www.hackerrank.com/12fatimah_15">
-    <img src="https://www.christian-mcarthur.com/sites/default/files/styles/large/public/field/image/hackerrank-logo.jpg?itok=emkNnuMJ" alt="hakerrank Badge" width="50" height="50"/>
+    <img src="https://www.christian-mcarthur.com/sites/default/files/styles/large/public/field/image/hackerrank-logo.jpg?itok=emkNnuMJ" alt="hakerrank Badge" width="60" height="50"/>
   </a>
    <a href="https://profile.satr.codes/Fatima_ALzahrani/public/overview">
-    <img src="https://user-images.githubusercontent.com/128253849/226166184-533c35ea-e887-4bc5-86de-f9852560b757.svg" alt="كودرهب" width="50" height="50"/>
+    <img src="https://user-images.githubusercontent.com/128253849/226166184-533c35ea-e887-4bc5-86de-f9852560b757.svg" alt="كودرهب" width="60" height="60"/>
   </a>
 
 </div>
