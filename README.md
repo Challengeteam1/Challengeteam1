@@ -30,6 +30,30 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimaalzahrani&show_icons=true&locale=en" alt="fatimaalzahrani" /></p>
 
+<div id="badges" align="center">
+<!--   <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+  <a href="mailto:12fatimah.15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+   <a href="mailto:12fatimah.15@gmail.com">
+    <img src="https://www.christian-mcarthur.com/sites/default/files/styles/large/public/field/image/hackerrank-logo.jpg?itok=emkNnuMJ" alt="hakerrank Badge"/>
+  </a>
+   <a href="mailto:12fatimah.15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Challengeteam1&style=flat-square&color=blue" alt=""/>
+</div> 
+
 <!-- ## مجتمع البرمجة التنافسية 
 
 
@@ -58,7 +82,7 @@
 
 ---
 
-### :hammer_and_wrench: اللغات المستخدمة لحل التديات :
+### اللغات المستخدمة لحل التديات  :hammer_and_wrench: :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
@@ -67,7 +91,7 @@
 
 ---
 
-### إحصائياتنا : :fire:
+### إحصائياتنا :fire: :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Challengeteam1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
@@ -91,7 +115,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-Gmail-URL">
+  <a href="mailto:email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
